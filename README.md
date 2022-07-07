@@ -64,5 +64,5 @@
 <li>shortcut</li>
 <li>Tool Tips</li>
 <li>Tool Button Icon</li>
-<li>Cusrsor Change</li>
+<li>Cursor Change</li>
 
